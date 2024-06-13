@@ -163,7 +163,7 @@ nav.scrolled {
     display: flex;
     height: 100vh;
     min-height: 700px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url('back.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url('images/back.jpg');
     background-size: cover;
   background-position: center;
    
