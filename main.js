@@ -214,7 +214,7 @@ window.addEventListener('scroll', scrollHandler)
 
 function downloadCV() {
   const link = document.createElement('a');
-  link.href = 'https://drive.google.com/uc?export=download&id=1r_sc6tdO1uQpTP9FK9bLftF35lghDOHJ'; 
+  link.href = 'https://drive.google.com/uc?export=download&id=1gLOzOLEMVyBr8yJVE5WCMGEfsMSC5wR4'; 
   link.download = 'Mounira_Zitouni_Resume.pdf'; 
   link.click();
 }
